@@ -1,1 +1,4 @@
 nosync/
+*.ctd~
+*.ctd~~
+*.ctd~~~
