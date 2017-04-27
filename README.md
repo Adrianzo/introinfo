@@ -1,6 +1,29 @@
 Programa de Introducción a la Informática.
 ISFD Polo Educativo IMPA, 2017.
 
+<!-- TOC depthFrom:1 depthTo:2 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+	- [1 PRESENTACION](#1-presentacion)
+	- [2 EVOLUCION](#2-evolucion)
+	- [3 Objetos](#3-objetos)
+	- [4 NIVELES I](#4-niveles-i)
+	- [5 PERVASIVIDAD](#5-pervasividad)
+	- [6 IMPACTOS](#6-impactos)
+	- [7 CIERRE](#7-cierre)
+	- [8 INFODIGITAL](#8-infodigital)
+	- [9 SISTNUM](#9-sistnum)
+	- [10 NIVELES II](#10-niveles-ii)
+	- [11 PROGRAM](#11-program)
+	- [12 ARDUINO](#12-arduino)
+	- [13 LIBERTAD](#13-libertad)
+	- [14 REDES](#14-redes)
+	- [15 FIN](#15-fin)
+	- [RECURSOS](#recursos)
+
+<!-- /TOC -->
+
+---
+
 ## 1 PRESENTACION
 Presentaciones:
 - docentes
@@ -66,7 +89,9 @@ _"tarea para la prox" : investigar historia de la computacion y que cada uno tra
 - Computadores en todos lados
 - La internet de las cosas (IoT)
 
-## 3 Objetos de estudio, teorías, métodos, técnicas de computación y sus aplicaciones.
+## 3 Objetos
+
+Objetos de estudio, teorías, métodos, técnicas de computación y sus aplicaciones.
 
 
 #### Las TIC y sus usos
